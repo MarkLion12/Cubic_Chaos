@@ -1,0 +1,25 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Particle Systems","order":13,"path":"folders/Particle Systems.yy",},
+    {"name":"Временные шкалы","order":7,"path":"folders/Временные шкалы.yy",},
+    {"name":"Звуки","order":2,"path":"folders/Звуки.yy",},
+    {"name":"Кривые анимации","order":10,"path":"folders/Кривые анимации.yy",},
+    {"name":"Наборы плиток","order":1,"path":"folders/Наборы плиток.yy",},
+    {"name":"Объекты","order":8,"path":"folders/Объекты.yy",},
+    {"name":"Последовательности","order":14,"path":"folders/Последовательности.yy",},
+    {"name":"Примечания","order":11,"path":"folders/Примечания.yy",},
+    {"name":"Пути","order":3,"path":"folders/Пути.yy",},
+    {"name":"Расширения","order":12,"path":"folders/Расширения.yy",},
+    {"name":"Румы","order":9,"path":"folders/Румы.yy",},
+    {"name":"Скрипты","order":4,"path":"folders/Скрипты.yy",},
+    {"name":"Шейдеры","order":5,"path":"folders/Шейдеры.yy",},
+    {"name":"Шрифты","order":6,"path":"folders/Шрифты.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"oFire","order":2,"path":"objects/oFire/oFire.yy",},
+    {"name":"oWall","order":1,"path":"objects/oWall/oWall.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+    {"name":"sFire","order":2,"path":"sprites/sFire/sFire.yy",},
+    {"name":"sWall","order":1,"path":"sprites/sWall/sWall.yy",},
+  ],
+}
