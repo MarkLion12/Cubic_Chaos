@@ -35,10 +35,12 @@
   "name":"Platformer",
   "resources":[
     {"id":{"name":"oFire","path":"objects/oFire/oFire.yy",},},
+    {"id":{"name":"oMonet","path":"objects/oMonet/oMonet.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"sFire","path":"sprites/sFire/sFire.yy",},},
+    {"id":{"name":"sMonet","path":"sprites/sMonet/sMonet.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
     {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},},
   ],

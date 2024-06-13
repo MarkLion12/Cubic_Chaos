@@ -17,9 +17,11 @@
   ],
   "ResourceOrderSettings":[
     {"name":"oFire","order":2,"path":"objects/oFire/oFire.yy",},
+    {"name":"oMonet","order":3,"path":"objects/oMonet/oMonet.yy",},
     {"name":"oWall","order":1,"path":"objects/oWall/oWall.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"sFire","order":2,"path":"sprites/sFire/sFire.yy",},
+    {"name":"sMonet","order":3,"path":"sprites/sMonet/sMonet.yy",},
     {"name":"sWall","order":1,"path":"sprites/sWall/sWall.yy",},
   ],
 }
