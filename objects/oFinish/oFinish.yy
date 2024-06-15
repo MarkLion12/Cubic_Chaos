@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"oMonet",
-  "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"oFinish",
+  "eventList":[],
   "managed":true,
-  "name":"oMonet",
+  "name":"oFinish",
   "overriddenProperties":[],
   "parent":{
     "name":"Объекты",
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sMonet",
-    "path":"sprites/sMonet/sMonet.yy",
+    "name":"sFinish",
+    "path":"sprites/sFinish/sFinish.yy",
   },
   "spriteMaskId":null,
   "visible":true,

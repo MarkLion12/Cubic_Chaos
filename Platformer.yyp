@@ -34,11 +34,15 @@
   },
   "name":"Platformer",
   "resources":[
+    {"id":{"name":"oFinish","path":"objects/oFinish/oFinish.yy",},},
     {"id":{"name":"oFire","path":"objects/oFire/oFire.yy",},},
+    {"id":{"name":"oGame","path":"objects/oGame/oGame.yy",},},
     {"id":{"name":"oMonet","path":"objects/oMonet/oMonet.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},},
-    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"id":{"name":"Level1","path":"rooms/Level1/Level1.yy",},},
+    {"id":{"name":"Level2","path":"rooms/Level2/Level2.yy",},},
+    {"id":{"name":"sFinish","path":"sprites/sFinish/sFinish.yy",},},
     {"id":{"name":"sFire","path":"sprites/sFire/sFire.yy",},},
     {"id":{"name":"sMonet","path":"sprites/sMonet/sMonet.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
@@ -47,7 +51,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"roomId":{"name":"Level1","path":"rooms/Level1/Level1.yy",},},
+    {"roomId":{"name":"Level2","path":"rooms/Level2/Level2.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
